@@ -1,6 +1,3 @@
-img {
-    cursor: no-drop;
-}
 
 img:hover{
     filter: grayscale(100%);
