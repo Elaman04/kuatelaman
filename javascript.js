@@ -27,8 +27,8 @@ while(a<100){
     a*=2;
     alert(a);
 }
-let fruits=["Планета","Жер","24 сағат"];
-
-alert(fruits[0]);
-alert(fruits[1]);
-alert(fruits[2]);
+var eart=new Array();
+earth [0]="Планета";
+earth [1]="Жер";
+earth [2]="24 сағат";
+earth [3]="365.25";
